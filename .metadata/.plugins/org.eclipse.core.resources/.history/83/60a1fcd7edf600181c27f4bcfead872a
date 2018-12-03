@@ -10,7 +10,7 @@ public class Parser_Libro {
 		String file = null;
 		Scanner scanner = new Scanner(System.in);
 
-		//File name to show
+		//Pedimos los datos del estudiante
 		System.out.print("Ingresa nombre del archivo: ");
 		file = scanner.nextLine();
 		
